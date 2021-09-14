@@ -1,0 +1,105 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.parent {
+    border: 3px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+
+.header2 {
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    margin-left: 800px;
+}
+
+.body {
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.minibody {
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.name {
+    border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.about {
+    border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.github {
+    border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.contact {
+    border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.personalpic {
+     border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.bigname {
+     border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bio {
+     border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+}
+
+.worklink {
+     border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+}
+
+.contact2 {
+     border: 2px solid purple;
+    padding: 10px;
+    margin: 10px;
+}
