@@ -129,8 +129,8 @@ a:hover, a:active {
 }
 
 .parent2 {
-    border: 2px solid red;
-    color: #FFECD1;
+    
+    color: #F5F3F5;
     display: flex;
     flex-direction: column;
     padding: 10px;
@@ -147,31 +147,86 @@ a:hover, a:active {
 }
 
 .contacthead {
-    border: 2px solid green;
+    
     padding: 10px;
     margin: 10px;
     display: flex;
     justify-content: center;
+    font-size: 65px;
+    font-weight: 800;
+    
+
 
 }
 
 .contactphone {
-    border: 2px solid green;
+    
     padding: 10px;
     margin: 10px;
     display: flex;
     justify-content: center;
+    font-size: 45px;
+    font-weight: 700;
 
 }
 
 .email {
-    border: 2px solid green;
+    
     padding: 10px;
     margin: 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    
+    font-size: 45px;
+    font-weight: 700;
 
+}
+
+.parent3 {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-image: url(IMG_1938.jpeg);
+    background-color: #11151C;
+    height: 1400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.name2 {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 55px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.from {
+    padding: 10px;
+    margin: 10px;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.me {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: whitesmoke;
 }
